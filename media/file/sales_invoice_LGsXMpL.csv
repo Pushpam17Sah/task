@@ -1,0 +1,5 @@
+text/csvID,Customer Name,Phone,Address,Amount,Discount,Tax Percent,Invoice Items
+1,Pushpam Kumar,9852174862,Bengaluru,1000,10,10%,"{'productName': 'Horlicks', 'rate': '100', 'quantity': '5', 'unit': '4'}"
+2,Bittu Kumar,9852174862,Karnataka,1000,100,14%,"{'productName': 'Boost', 'rate': '100', 'quantity': '5', 'unit': '4'}"
+3,test,6203420572,test,100,1,1,"{'productName': 'Boost', 'rate': '100', 'quantity': '5', 'unit': '4'}"
+4,test2,6203420572,test,10,1,1,"{'productName': 'Boost', 'rate': '100', 'quantity': '5', 'unit': '4'}"
